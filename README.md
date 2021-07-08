@@ -6,5 +6,5 @@
 
 Demo
 
-[Frontend Mentor](https://stats-preview-card-component-main-karim.netlify.app/)
+[Netlify link](https://stats-preview-card-component-main-karim.netlify.app/)
 
