@@ -6,5 +6,5 @@
 
 Demo
 
-[Netlify link](https://stats-preview-card-component-main-karim.netlify.app/)
+[https://stats-preview-card-component-main-karim.netlify.app](https://stats-preview-card-component-main-karim.netlify.app/)
 
